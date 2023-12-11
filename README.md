@@ -1,2 +1,2 @@
 # to-dolist
-a fullt functioning to-do list with backend using express ,Node ,ejs and postgres for database
+a fully functioning to-do list with backend using express ,Node ,ejs and postgres for database
