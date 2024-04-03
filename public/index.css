@@ -1,0 +1,59 @@
+body{
+    text-align: center;
+    background-color: antiquewhite;
+}
+.input-container{
+    justify-content: center;
+}
+.input-container input{
+    border-radius: 25px;
+    border: 2px solid;
+    border-color: rgb(118, 115, 110);
+    padding: 10px;
+    padding-left: 20px;
+    width: 500px;
+    height: 15px;
+}
+.input-container button{
+    margin-left: 4px;
+    border-radius: 25px;
+    padding: 10px;
+    width: 100px;
+    border:2px solid;
+    border-color: rgb(83, 36, 36);
+    background-color: rgb(83, 36, 36);
+    color: aliceblue;
+    opacity: 0.6;
+  transition: 0.3s;
+}
+.input-container button:hover{
+    opacity: 1;
+}
+
+.listItems{
+    margin: 2% 28%;
+    padding-top: 17px;
+    padding-bottom: 3px;
+
+}
+.task{
+    height: 35px;
+    border-radius: 25px;
+    margin:3px 15px;
+    margin-bottom: 17px;
+    display: flex;
+    border: 2px solid rgb(118, 115, 110);
+    background-color: white;
+}
+.check{
+    margin:  auto 20px;
+}
+.task p{
+    width: 500px;
+    text-align: center;
+    margin: auto 2px ;
+    padding: 0px 10px;
+}
+.trash{
+    margin: auto 20px;
+}
