@@ -1,0 +1,20 @@
+.app{
+    margin: 0 25rem;
+}
+.listItems{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 1rem 0px;
+    flex-direction: column;
+}
+@media (max-width:1280px){
+    .app{
+        margin: 0 10rem;
+    }
+}
+@media (max-width:800px){
+    .app{
+        margin:0;
+    }
+}
