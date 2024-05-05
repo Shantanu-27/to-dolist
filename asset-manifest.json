@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/to-dolist/static/css/main.e7fa1a18.css",
+    "main.css": "/to-dolist/static/css/main.b5f55e5d.css",
     "main.js": "/to-dolist/static/js/main.538e017f.js",
     "static/media/pawel-czerwinski-6G8bDIY24pM-unsplash.jpg": "/to-dolist/static/media/pawel-czerwinski-6G8bDIY24pM-unsplash.06dbab6b7f1b7989239d.jpg",
     "index.html": "/to-dolist/index.html",
-    "main.e7fa1a18.css.map": "/to-dolist/static/css/main.e7fa1a18.css.map",
+    "main.b5f55e5d.css.map": "/to-dolist/static/css/main.b5f55e5d.css.map",
     "main.538e017f.js.map": "/to-dolist/static/js/main.538e017f.js.map"
   },
   "entrypoints": [
-    "static/css/main.e7fa1a18.css",
+    "static/css/main.b5f55e5d.css",
     "static/js/main.538e017f.js"
   ]
 }
